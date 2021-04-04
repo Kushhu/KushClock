@@ -94,8 +94,8 @@ center .container:hover .divS{
 }
 
 .divS{
-    width: 1px;
-    height: 300px;
+    width: 2px;
+    height: 255px;
     background-color: black;
     transition: all 1s;
     position: absolute;
