@@ -90,7 +90,7 @@
                 var v;
                 for (let i = 0; i < 4; i++) {
                     de += 90;
-                    v = "div" + i;
+                    v = document.getElementById('div'+i);
                     v.style.transform = "rotate(" + de + "deg)";
                 }
             }
