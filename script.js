@@ -1,6 +1,6 @@
             
             var d = new Date();
-            var h = d.getHours(); h >= 12 ? h-=12 : h;
+            var h = d.getHours(); h > 12 ? h-=12 : h;
             var m = d.getMinutes();
             var s = d.getSeconds();
             
