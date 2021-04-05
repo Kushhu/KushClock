@@ -83,7 +83,7 @@
                 if (sDeg == 6120) sDeg = 0;
                 if (mDeg == 6120) mDeg = 0;
                 if (hDeg == 6120) hDeg = 0;
-}
+            }
             
             function creatDiv() {
                 for (let i = 0; i < 4; i++) {
